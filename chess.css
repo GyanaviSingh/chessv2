@@ -1,0 +1,58 @@
+
+
+.main{
+			width: 800px;
+			height: 800px;
+			background-color: white;
+			border: 5px solid grey;
+		}
+
+		.parentrow{
+			width: 800px;
+			height: 100px;
+		}
+
+		.col1white{
+			width: 100px;
+			height: 100px;
+			background-color: white;
+			float: left;
+			font-size: 80px;
+			text-align: center;
+			vertical-align: middle;
+		}
+
+		.col2brown{
+			width: 100px;
+			height: 100px;
+			background-color: grey;
+			float: left;
+			font-size: 80px;
+			text-align: center;
+			vertical-align: middle;
+		}
+
+		.parentrow2{
+			width: 800px;
+			height: 100px;
+		}
+
+		.col3brown{
+			height: 100px;
+			width: 100px;
+			float: left;
+			background-color: grey;
+			font-size: 80px;
+			text-align: center;
+			vertical-align: middle;
+		}
+
+		.col4white{
+			height: 100px;
+			width: 100px;
+			background-color: white;
+			float: left;
+			font-size: 80px;
+			text-align: center;
+			vertical-align: middle;
+		}
